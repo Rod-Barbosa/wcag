@@ -1,2 +1,2 @@
 # wcag
-##Google Course on How to Handle Web Content Acessibility Guidelines
+## Google Course on How to Handle Web Content Acessibility Guidelines
